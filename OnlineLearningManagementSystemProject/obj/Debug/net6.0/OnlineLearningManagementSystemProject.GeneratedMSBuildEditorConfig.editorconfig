@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineLearningManagementSystemProject
+build_property.RootNamespace = OnlineLearningManagementSystemProject
+build_property.ProjectDir = E:\projectMVC\OnlineLearningManagementSystemProject\OnlineLearningManagementSystemProject\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\projectMVC\OnlineLearningManagementSystemProject\OnlineLearningManagementSystemProject
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Account/AddAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZGRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Account/AddStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZGRTdGFmZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Account/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZGRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Account/AdminRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZG1pblJlZ2lzdHJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Course/addCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXGFkZENvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Course/DoctorStudentName.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERvY3RvclN0dWRlbnROYW1lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Course/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXHVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Material/classwork.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcY2xhc3N3b3JrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Material/CreateD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlRC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Material/CreateL.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlTC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Material/CreateV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcQ3JlYXRlVi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Material/GetLecturesByMaterial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcR2V0TGVjdHVyZXNCeU1hdGVyaWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Material/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWF0ZXJpYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Role/AddRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StaffCourse/addcoursetostaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZDb3Vyc2VcYWRkY291cnNldG9zdGFmZi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StaffCourse/GetCoursesStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZDb3Vyc2VcR2V0Q291cnNlc1N0YWZmLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StaffCourse/GetCoursesStaffByAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZDb3Vyc2VcR2V0Q291cnNlc1N0YWZmQnlBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StaffCourse/GetStaffsByCourseId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZDb3Vyc2VcR2V0U3RhZmZzQnlDb3Vyc2VJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Staff/addStaff.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcYWRkU3RhZmYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Staff/GetStaffASNationaliId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcR2V0U3RhZmZBU05hdGlvbmFsaUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Staff/GetstaffById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcR2V0c3RhZmZCeUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Staff/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Staff/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhZmZcdXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StudentCourse/addcoursetostudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvdXJzZVxhZGRjb3Vyc2V0b3N0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StudentCourse/GetCoursesStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvdXJzZVxHZXRDb3Vyc2VzU3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StudentCourse/GetCoursesStudentByAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvdXJzZVxHZXRDb3Vyc2VzU3R1ZGVudEJ5QWRtaW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StudentCourse/GetStudentsByCourseId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvdXJzZVxHZXRTdHVkZW50c0J5Q291cnNlSWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/StudentCourse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudENvdXJzZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Student/AddStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGRTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Student/getStudentById.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxnZXRTdHVkZW50QnlJZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Student/GetStudentsASEnrollYear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRTdHVkZW50c0FTRW5yb2xsWWVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Student/update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFx1cGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/projectMVC/OnlineLearningManagementSystemProject/OnlineLearningManagementSystemProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nlj1txgk4y

@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OnlineLearningManagementSystemProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OnlineLearningManagementSystemProject.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\13f906ee-4619-41f2-90cf-e7ec5d659a47.mp4",
+      "PackagePath": "staticwebassets\\13f906ee-4619-41f2-90cf-e7ec5d659a47.mp4"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\013d1cac-4a24-496c-aa81-c2838b4c8555.jpg",
+      "PackagePath": "staticwebassets\\Documents\\013d1cac-4a24-496c-aa81-c2838b4c8555.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\16d05a63-c070-4b3a-b768-c6f364169367.jpg",
+      "PackagePath": "staticwebassets\\Documents\\16d05a63-c070-4b3a-b768-c6f364169367.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\192873aa-4166-4b2f-9bbb-7ab40284b4ee.jpg",
+      "PackagePath": "staticwebassets\\Documents\\192873aa-4166-4b2f-9bbb-7ab40284b4ee.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\1bb1a26b-32bc-4053-81af-febbdaafa8bd.png",
+      "PackagePath": "staticwebassets\\Documents\\1bb1a26b-32bc-4053-81af-febbdaafa8bd.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\1d6edff0-9af0-43db-80dc-abcdd9bad62e.svg",
+      "PackagePath": "staticwebassets\\Documents\\1d6edff0-9af0-43db-80dc-abcdd9bad62e.svg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\26b12f2b-fa27-4aba-9498-b88caf20e86c.jpg",
+      "PackagePath": "staticwebassets\\Documents\\26b12f2b-fa27-4aba-9498-b88caf20e86c.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\27aaa8c0-e039-4d25-8424-e0b7bdd29294.jpg",
+      "PackagePath": "staticwebassets\\Documents\\27aaa8c0-e039-4d25-8424-e0b7bdd29294.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\333f2828-4003-4101-ab38-cdaaafb30bec.pptx",
+      "PackagePath": "staticwebassets\\Documents\\333f2828-4003-4101-ab38-cdaaafb30bec.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\36de66f4-c929-4682-beef-6b85ab973ab3.jpg",
+      "PackagePath": "staticwebassets\\Documents\\36de66f4-c929-4682-beef-6b85ab973ab3.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\36df7b09-009b-4ee7-913e-2f2e697f32e6.mkv",
+      "PackagePath": "staticwebassets\\Documents\\36df7b09-009b-4ee7-913e-2f2e697f32e6.mkv"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\42d5bef3-80ea-4de7-b552-a57a83c556bd.png",
+      "PackagePath": "staticwebassets\\Documents\\42d5bef3-80ea-4de7-b552-a57a83c556bd.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\496acd88-6fd7-49c3-a3e4-79b475e96ad1.jpg",
+      "PackagePath": "staticwebassets\\Documents\\496acd88-6fd7-49c3-a3e4-79b475e96ad1.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\5398459a-5717-457a-865a-ea3cc099b9b7.jpg",
+      "PackagePath": "staticwebassets\\Documents\\5398459a-5717-457a-865a-ea3cc099b9b7.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\57819163-569a-42ea-bd63-54618ce81bba.jpg",
+      "PackagePath": "staticwebassets\\Documents\\57819163-569a-42ea-bd63-54618ce81bba.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\57985e3c-24df-4528-92b9-66d9d3e361e1.pdf",
+      "PackagePath": "staticwebassets\\Documents\\57985e3c-24df-4528-92b9-66d9d3e361e1.pdf"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\57a34fa1-fba4-4f9b-b26d-2e9b0f299fb9.pptx",
+      "PackagePath": "staticwebassets\\Documents\\57a34fa1-fba4-4f9b-b26d-2e9b0f299fb9.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\5fdf066f-0d55-493f-8298-2f6fc8f3e31b.jpg",
+      "PackagePath": "staticwebassets\\Documents\\5fdf066f-0d55-493f-8298-2f6fc8f3e31b.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\634ef75c-d56f-488a-9d6b-b498e77a8d17.svg",
+      "PackagePath": "staticwebassets\\Documents\\634ef75c-d56f-488a-9d6b-b498e77a8d17.svg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\6358caad-ac14-45d5-a43a-c148d55af023.jpg",
+      "PackagePath": "staticwebassets\\Documents\\6358caad-ac14-45d5-a43a-c148d55af023.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\67af99de-15da-46f0-89ad-2f07e06061c6.xlsx",
+      "PackagePath": "staticwebassets\\Documents\\67af99de-15da-46f0-89ad-2f07e06061c6.xlsx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\68835421-41b5-4d06-bd5a-0f4ee616431f.jpg",
+      "PackagePath": "staticwebassets\\Documents\\68835421-41b5-4d06-bd5a-0f4ee616431f.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\6ce16a49-d580-41a9-b3ea-6a09facec096.jpg",
+      "PackagePath": "staticwebassets\\Documents\\6ce16a49-d580-41a9-b3ea-6a09facec096.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\782b7221-856c-4ad6-a9ce-00477eaf174b.png",
+      "PackagePath": "staticwebassets\\Documents\\782b7221-856c-4ad6-a9ce-00477eaf174b.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\7cec51e0-52ef-41f1-9805-d9e1cfa8e64d.jpg",
+      "PackagePath": "staticwebassets\\Documents\\7cec51e0-52ef-41f1-9805-d9e1cfa8e64d.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\7e07c98d-eb0b-40dd-b300-714d2d34f454.svg",
+      "PackagePath": "staticwebassets\\Documents\\7e07c98d-eb0b-40dd-b300-714d2d34f454.svg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\7fad4044-000b-4bbc-a803-2e19fb47b8ff.jpg",
+      "PackagePath": "staticwebassets\\Documents\\7fad4044-000b-4bbc-a803-2e19fb47b8ff.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\a2a6cd88-a036-4bfb-abe9-1472eb2265b8.jpg",
+      "PackagePath": "staticwebassets\\Documents\\a2a6cd88-a036-4bfb-abe9-1472eb2265b8.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\a4365fb2-0e11-489e-9c97-5caf4f28716d.jpg",
+      "PackagePath": "staticwebassets\\Documents\\a4365fb2-0e11-489e-9c97-5caf4f28716d.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\a4573c83-2541-49a1-9232-b8060b17b64f.png",
+      "PackagePath": "staticwebassets\\Documents\\a4573c83-2541-49a1-9232-b8060b17b64f.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\a93275b8-6cfb-4717-bb67-016a440e81ff.svg",
+      "PackagePath": "staticwebassets\\Documents\\a93275b8-6cfb-4717-bb67-016a440e81ff.svg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\b0417481-dd98-46ae-9fd4-8dfa1363a3fd.pptx",
+      "PackagePath": "staticwebassets\\Documents\\b0417481-dd98-46ae-9fd4-8dfa1363a3fd.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\b202f66e-8081-4276-b564-0a9bd2a60afb.pptx",
+      "PackagePath": "staticwebassets\\Documents\\b202f66e-8081-4276-b564-0a9bd2a60afb.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\b6871c06-d282-406f-a559-8746105cef60.pptx",
+      "PackagePath": "staticwebassets\\Documents\\b6871c06-d282-406f-a559-8746105cef60.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\c063ae7b-8909-4e43-89e0-053ce2fdd866.jpg",
+      "PackagePath": "staticwebassets\\Documents\\c063ae7b-8909-4e43-89e0-053ce2fdd866.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\c5285faa-83d4-4094-b461-7df456952cda.png",
+      "PackagePath": "staticwebassets\\Documents\\c5285faa-83d4-4094-b461-7df456952cda.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\c6f3f290-db79-499f-b168-e5be4bc729df.jpg",
+      "PackagePath": "staticwebassets\\Documents\\c6f3f290-db79-499f-b168-e5be4bc729df.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\d296353e-dd72-4d02-a52d-fb26618092f6.pptx",
+      "PackagePath": "staticwebassets\\Documents\\d296353e-dd72-4d02-a52d-fb26618092f6.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\e4891b8c-b03d-46c5-8135-42539b43b170.pdf",
+      "PackagePath": "staticwebassets\\Documents\\e4891b8c-b03d-46c5-8135-42539b43b170.pdf"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\e8c9f6bd-0d3b-4dc1-bc63-d4047bda3e19.jpg",
+      "PackagePath": "staticwebassets\\Documents\\e8c9f6bd-0d3b-4dc1-bc63-d4047bda3e19.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\e9b37b5b-ca77-4fef-9a9d-5d222a0f7137.jpg",
+      "PackagePath": "staticwebassets\\Documents\\e9b37b5b-ca77-4fef-9a9d-5d222a0f7137.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\ea7b3f17-2efd-4f01-9907-4ab5147587a6.jpg",
+      "PackagePath": "staticwebassets\\Documents\\ea7b3f17-2efd-4f01-9907-4ab5147587a6.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\eccbe509-bb27-42f6-877c-b137d9895e4f.png",
+      "PackagePath": "staticwebassets\\Documents\\eccbe509-bb27-42f6-877c-b137d9895e4f.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\edb61b27-af82-46ee-b618-34a8e9f869f8.jpg",
+      "PackagePath": "staticwebassets\\Documents\\edb61b27-af82-46ee-b618-34a8e9f869f8.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\eedbe3c1-6299-4eb6-9409-5ef147d87e07.pptx",
+      "PackagePath": "staticwebassets\\Documents\\eedbe3c1-6299-4eb6-9409-5ef147d87e07.pptx"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\Documents\\fe25cf9a-2353-402f-b6d3-79dfacd3ac7f.png",
+      "PackagePath": "staticwebassets\\Documents\\fe25cf9a-2353-402f-b6d3-79dfacd3ac7f.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\c5817930-334d-4b26-99a6-558d30de4133.mp4",
+      "PackagePath": "staticwebassets\\c5817930-334d-4b26-99a6-558d30de4133.mp4"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\15dd7eda-2607-4a0e-97c2-acbb888c92ae.png",
+      "PackagePath": "staticwebassets\\courseimage\\15dd7eda-2607-4a0e-97c2-acbb888c92ae.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\4215ca72-73aa-4bd9-8655-d980fb23314a.png",
+      "PackagePath": "staticwebassets\\courseimage\\4215ca72-73aa-4bd9-8655-d980fb23314a.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\507d96b7-e950-4ca5-b3ec-01a716120267.jpg",
+      "PackagePath": "staticwebassets\\courseimage\\507d96b7-e950-4ca5-b3ec-01a716120267.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\6617a229-649e-49cc-8b4f-4fe67878c8f8.png",
+      "PackagePath": "staticwebassets\\courseimage\\6617a229-649e-49cc-8b4f-4fe67878c8f8.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\6fe992b3-b300-4a9d-8a9d-6b763fc91454.jpg",
+      "PackagePath": "staticwebassets\\courseimage\\6fe992b3-b300-4a9d-8a9d-6b763fc91454.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\9b2109ee-1a28-4701-93de-5bfdf6c493eb.jpg",
+      "PackagePath": "staticwebassets\\courseimage\\9b2109ee-1a28-4701-93de-5bfdf6c493eb.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\a4727df3-9ac2-48e4-b0cf-83108e8c5aea.jpg",
+      "PackagePath": "staticwebassets\\courseimage\\a4727df3-9ac2-48e4-b0cf-83108e8c5aea.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\b55080fb-49a4-4631-ba0e-342cc56116c7.webm",
+      "PackagePath": "staticwebassets\\courseimage\\b55080fb-49a4-4631-ba0e-342cc56116c7.webm"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\c4d467dd-bbec-4855-812b-e6646cf454ca.jpg",
+      "PackagePath": "staticwebassets\\courseimage\\c4d467dd-bbec-4855-812b-e6646cf454ca.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\c620af2c-ff9e-4fa7-a429-4beef5d2eb61.jpg",
+      "PackagePath": "staticwebassets\\courseimage\\c620af2c-ff9e-4fa7-a429-4beef5d2eb61.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\courseimage\\ec4608b3-dcd2-4d5c-958b-ef18236df0ee.png",
+      "PackagePath": "staticwebassets\\courseimage\\ec4608b3-dcd2-4d5c-958b-ef18236df0ee.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\AddUser.css",
+      "PackagePath": "staticwebassets\\css\\AddUser.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\AssignCourse.css",
+      "PackagePath": "staticwebassets\\css\\AssignCourse.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\Courses - Copy.css",
+      "PackagePath": "staticwebassets\\css\\Courses - Copy.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\Courses.css",
+      "PackagePath": "staticwebassets\\css\\Courses.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\Edit.css",
+      "PackagePath": "staticwebassets\\css\\Edit.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\Management.css",
+      "PackagePath": "staticwebassets\\css\\Management.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\Staff Courses.css",
+      "PackagePath": "staticwebassets\\css\\Staff Courses.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\Styles Admin.css",
+      "PackagePath": "staticwebassets\\css\\Styles Admin.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\classwork.css",
+      "PackagePath": "staticwebassets\\css\\classwork.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\coursepage.css",
+      "PackagePath": "staticwebassets\\css\\coursepage.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\create-material.css",
+      "PackagePath": "staticwebassets\\css\\create-material.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\people.css",
+      "PackagePath": "staticwebassets\\css\\people.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\Course.jpg",
+      "PackagePath": "staticwebassets\\images\\Course.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\Screenshot 2023-05-11 225553.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot 2023-05-11 225553.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\blank-profile-picture-973460_640-5-600x600.png",
+      "PackagePath": "staticwebassets\\images\\blank-profile-picture-973460_640-5-600x600.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\cat-8.jpg",
+      "PackagePath": "staticwebassets\\images\\cat-8.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\images\\page-header.jpg",
+      "PackagePath": "staticwebassets\\images\\page-header.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\Admin.js",
+      "PackagePath": "staticwebassets\\js\\Admin.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\Profile.js",
+      "PackagePath": "staticwebassets\\js\\Profile.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\Staff Courses.js",
+      "PackagePath": "staticwebassets\\js\\Staff Courses.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\Student-Courses.js",
+      "PackagePath": "staticwebassets\\js\\Student-Courses.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\classwork.js",
+      "PackagePath": "staticwebassets\\js\\classwork.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\coursepage.js",
+      "PackagePath": "staticwebassets\\js\\coursepage.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\0dd55bd0-a581-45ea-b608-988b90855c06.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\0dd55bd0-a581-45ea-b608-988b90855c06.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\16f599a5-eff8-4761-83cd-82a7e4d9bc62.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\16f599a5-eff8-4761-83cd-82a7e4d9bc62.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\192d0606-dbff-424b-a1a2-1141622dbaa5.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\192d0606-dbff-424b-a1a2-1141622dbaa5.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\19877fa9-be6e-47df-93ce-2dcdc456276b.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\19877fa9-be6e-47df-93ce-2dcdc456276b.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\2c04bd8f-fcb0-432b-8762-1c20c58a7335.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\2c04bd8f-fcb0-432b-8762-1c20c58a7335.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\3c01cec5-848b-4e63-993d-8fc047efccc3.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\3c01cec5-848b-4e63-993d-8fc047efccc3.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\7af285dc-216e-4d50-a448-7967d958a36e.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\7af285dc-216e-4d50-a448-7967d958a36e.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\bcc6b892-dc3e-4f93-8fab-744a81160936.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\bcc6b892-dc3e-4f93-8fab-744a81160936.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\beae8e33-a943-403e-b01c-faf0ee12e35f.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\beae8e33-a943-403e-b01c-faf0ee12e35f.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\c1ca9bfb-3bf7-402c-bb3b-e7ebaaad4b65.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\c1ca9bfb-3bf7-402c-bb3b-e7ebaaad4b65.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\staffimage\\ef86ee5b-8ea8-4b58-a793-a0eee32c90fc.jpg",
+      "PackagePath": "staticwebassets\\staffimage\\ef86ee5b-8ea8-4b58-a793-a0eee32c90fc.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\2e147498-f81d-4f62-aef6-897c5d5e284f.jpg",
+      "PackagePath": "staticwebassets\\studentimage\\2e147498-f81d-4f62-aef6-897c5d5e284f.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\4075428b-35b1-4697-a569-f032feb0a1a7.png",
+      "PackagePath": "staticwebassets\\studentimage\\4075428b-35b1-4697-a569-f032feb0a1a7.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\4386ab14-7603-4ce4-b596-29a05683ca02.jpg",
+      "PackagePath": "staticwebassets\\studentimage\\4386ab14-7603-4ce4-b596-29a05683ca02.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\47937518-db57-4cb3-8a67-79680cb75e52.png",
+      "PackagePath": "staticwebassets\\studentimage\\47937518-db57-4cb3-8a67-79680cb75e52.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\656ff31d-606c-45b8-bfb0-0399e215be31.png",
+      "PackagePath": "staticwebassets\\studentimage\\656ff31d-606c-45b8-bfb0-0399e215be31.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\78ea422a-6309-4984-a58a-d2672d3a6acc.jpg",
+      "PackagePath": "staticwebassets\\studentimage\\78ea422a-6309-4984-a58a-d2672d3a6acc.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\ad94fe2d-aa10-4161-a050-ba7d55b19ced.png",
+      "PackagePath": "staticwebassets\\studentimage\\ad94fe2d-aa10-4161-a050-ba7d55b19ced.png"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\b8f68cf6-5eed-40c3-ad17-b303070121c1.jpg",
+      "PackagePath": "staticwebassets\\studentimage\\b8f68cf6-5eed-40c3-ad17-b303070121c1.jpg"
+    },
+    {
+      "Id": "F:\\Ya Rab\\Setr W Seha\\AsmaaKhamis1911\\OnlineLearningManagementSystemProject\\OnlineLearningManagementSystemProject\\wwwroot\\studentimage\\f10d1920-0491-4e84-b50e-5d7e5f5b3479.png",
+      "PackagePath": "staticwebassets\\studentimage\\f10d1920-0491-4e84-b50e-5d7e5f5b3479.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OnlineLearningManagementSystemProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OnlineLearningManagementSystemProject.props",
+      "PackagePath": "build\\OnlineLearningManagementSystemProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineLearningManagementSystemProject.props",
+      "PackagePath": "buildMultiTargeting\\OnlineLearningManagementSystemProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OnlineLearningManagementSystemProject.props",
+      "PackagePath": "buildTransitive\\OnlineLearningManagementSystemProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
